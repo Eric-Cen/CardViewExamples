@@ -1,0 +1,32 @@
+[
+{
+"app_name":"Lose Weight App for Men - Weight Loss",
+"rating":4.8,
+"image_url":"loseweight"
+},
+{
+"app_name":"Home Workout - No Equipment",
+"rating":4.8,
+"image_url":"homeworkout"
+},
+{
+"app_name":"Six Pack in 30 Days - Abs Workout",
+"rating":4.8,
+"image_url":"sixpack"
+},
+{
+"app_name":"Plank Workout - 30 Days Plank Challenge",
+"rating":4.9,
+"image_url":"plankworkout"
+},
+{
+"app_name":"Kegel Exercises",
+"rating":4.9,
+"image_url":"kegel"
+},
+{
+"app_name":"Lose Belly Fat in 30 Days - Flat Stomach",
+"rating":4.8,
+"image_url":"losebellyfat"
+}
+]

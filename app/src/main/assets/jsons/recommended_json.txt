@@ -1,0 +1,92 @@
+[
+{
+"app_name":"WhatsApp Messenger",
+"rating":4.3,
+"image_url":"whatsapp"
+},
+{
+"app_name":"Facebook",
+"rating":4.2,
+"image_url":"facebook"
+},
+{
+"app_name":"Spotify: Discover new music, podcast",
+"rating":4.5,
+"image_url":"spotify"
+},
+{
+"app_name":"Amazon Shopping - Search Fast",
+"rating":4.2,
+"image_url":"amazonshopping"
+},
+{
+"app_name":"Microsoft Outlook",
+"rating":4.5,
+"image_url":"outlook"
+},
+{
+"app_name":"Waze - GPS, Maps, Traffic Alerts",
+"rating":4.4,
+"image_url":"waze"
+},
+{
+"app_name":"SoundCloud - Music & Audio",
+"rating":4.6,
+"image_url":"soundcloud"
+},
+{
+"app_name":"Wish - Shopping Made fun",
+"rating":4.4,
+"image_url":"wish"
+},
+{
+"app_name":"Video Editor & Video Maker - InShot",
+"rating":4.8,
+"image_url" : "videoeditor"
+},
+{
+"app_name":"Firefox Browser Fast",
+"rating":4.4,
+"image_url":"firefox"
+},
+{
+"app_name":"Amazon Music",
+"rating":4.4,
+"image_url":"amazonmusic"
+},
+{
+"app_name":"Microsoft Word",
+"rating":4.5,
+"image_url":"msword"
+},
+{
+"app_name":"File Manager : free and easily",
+"rating":4.8,
+"image_url":"filemanager"
+},
+{
+"app_name":"Uber Driver",
+"rating":4.2,
+"image_url":"uber"
+},
+{
+"app_name":"PicsArt Photo Editor: Pic, Video",
+"rating":4.3,
+"image_url":"picsart"
+},
+{
+"app_name":"Snapseed",
+"rating":4.6,
+"image_url":"snapseed"
+},
+{
+"app_name":"Amazon Prime Video",
+"rating":4.4,
+"image_url":"amazonprimevideo"
+},
+{
+"app_name":"Adobe Lightroom - Photo Editor",
+"rating":4.4,
+"image_url":"adobelightroom"
+}
+]
