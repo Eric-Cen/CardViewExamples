@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CardViewExamples</string>
+    <string name="star">\u2605</string>
+
 </resources>

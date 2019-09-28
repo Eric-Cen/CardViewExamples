@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mobile_navigation"
+        app:startDestination="@id/singleCardViewFragment">
+
+    <fragment
+            android:id="@+id/singleCardViewFragment"
+            android:name="com.mcarving.cardviewexamples.SingleCardViewFragment"
+            android:label="fragment_single_cardview"
+            tools:layout="@layout/fragment_single_cardview" >
+    </fragment>
+    <fragment
+            android:id="@+id/appListFragment"
+            android:name="com.mcarving.cardviewexamples.AppListFragment"
+            android:label="fragment_app_list"
+            tools:layout="@layout/fragment_app_list" />
+    <fragment
+            android:id="@+id/topChartsFragment"
+            android:name="com.mcarving.cardviewexamples.TopChartsFragment"
+            android:label="fragment_top_charts"
+            tools:layout="@layout/fragment_top_charts" />
+</navigation>
